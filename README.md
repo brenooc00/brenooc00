@@ -6,12 +6,8 @@
   <div align="center">
   <a href="https://github.com/brenooc00">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenooc00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooc00&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
+    </div>
 </br>
     
 <div align="center">
@@ -37,9 +33,9 @@
 <h2> Contatos </h2>
 </div> 
  <div align="center">
-  <a href="https://www.instagram.com/brenooc00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:breno190bre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/breno-oliveira-costa-25bb78210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/brenooc00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/brenooc00/count.svg" /></p>
