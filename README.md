@@ -2,11 +2,20 @@
 <h2> Seja, bem vindo!</h2>
 </div>
 </br>
+<div align="left">
+  <h3>Sobre mim</h3>
+  <h4>- Experiente em programação de robôs com sistemas embarcados, utilizando linguagens como C++ e Python</h4>
+  <h4>- Desenvolvi projetos de análise de dados e desenvolvimento web (.Net e Python)</h4>
+  <h4>- Especializando em .Net, JavaScript, CSS e HTML</h4>
+  <h4>- Fazendo Bacharelado em Engenharia Biomédica (7/10) na UFU</h4>
+</div>
+</br>
+
 <div align="center">
   <div align="center">
   <a href="https://github.com/brenooc00">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brenooc00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooc00&layout=compact&langs_count=7&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brenooc00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenooc00&layout=compact&langs_count=7&theme=dark"/>
     </div>
 </br>
     
