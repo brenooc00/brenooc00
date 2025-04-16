@@ -4,10 +4,10 @@
 </br>
 <div align="left">
   <h3>Sobre mim</h3>
-  <h4>- Experiente em programação de robôs com sistemas embarcados, utilizando linguagens como C++ e Python</h4>
-  <h4>- Desenvolvi projetos de análise de dados e desenvolvimento web (.Net e Python)</h4>
-  <h4>- Especializando em .Net, JavaScript, CSS e HTML</h4>
-  <h4>- Fazendo Bacharelado em Engenharia Biomédica (7/10) na UFU</h4>
+  <h4>- Desenvolvedor de robôs e sistemas embarcados, utilizando linguagens como C++ e Python</h4>
+  <h4>- Estagiário em análise de dados</h4>
+  <h4>- Atuei como coordenador de hardware em uma equipe de robótica</h4>
+  <h4>- Bacharelado em Engenharia Biomédica (8/10) na UFU e com foco em instrumentação biomédica</h4>
 </div>
 </br>
 
