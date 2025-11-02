@@ -5,9 +5,9 @@
 <div align="left">
   <h3>Sobre mim</h3>
   <h4>- Desenvolvedor de Agentes de Inteligência Artificial, Dashboards, Robôs e Projetos de IOT</h4>
-  <h4>- Estagiário em análise de dados</h4>
+  <h4>- Estagiário em análise de dados e agentes de IA</h4>
   <h4>- Atuei como coordenador de hardware em uma equipe de robótica, estagiário no Hospital das Clínicas e membro da Liga do Mercado Financeiro</h4>
-  <h4>- Bacharelado em Engenharia Biomédica (9/10) na UFU, com foco em instrumentação biomédica</h4>
+  <h4>- Bacharelado em Engenharia Biomédica (10/10) na UFU, com foco em instrumentação biomédica</h4>
 </div>
 </br>
 
